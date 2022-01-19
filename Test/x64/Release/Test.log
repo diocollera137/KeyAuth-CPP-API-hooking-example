@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\dioca\OneDrive\Desktop\Process-Protector-master\Process-Protector-master\Test\main.cpp(27,9): warning C4616: avviso #pragma: il numero di avviso '2001' non è un avviso del compilatore valido
+  Generazione codice in corso...
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\mak\Documents\KeyAuthLibrary64\nlohmann\detail\iterators\iter_impl.hpp(304): warning C4715: 'nlohmann::detail::iter_impl<nlohmann::basic_json<std::map,std::vector,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,bool,__int64,unsigned __int64,double,std::allocator,nlohmann::adl_serializer,std::vector<unsigned char,std::allocator<unsigned char> > > >::operator->': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\mak\Documents\KeyAuthLibrary64\utils.cpp(11): warning C4715: 'utils::get_hwid': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\mak\Documents\KeyAuthLibrary64\nlohmann\json.hpp(3691): warning C4715: 'nlohmann::basic_json<std::map,std::vector,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,bool,__int64,unsigned __int64,double,std::allocator,nlohmann::adl_serializer,std::vector<unsigned char,std::allocator<unsigned char> > >::operator[]<char const >': non tutti i percorsi di controllo restituiscono un valore
+  All 1569 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+library_x64.lib(auth.obj) : warning LNK4099: impossibile trovare il PDB 'library_x64.pdb' con 'library_x64.lib(auth.obj)' o in 'C:\Users\dioca\OneDrive\Desktop\Process-Protector-master\Process-Protector-master\x64\Release\library_x64.pdb'; oggetto collegato senza informazioni di debug
+library_x64.lib(utils.obj) : warning LNK4099: impossibile trovare il PDB 'library_x64.pdb' con 'library_x64.lib(utils.obj)' o in 'C:\Users\dioca\OneDrive\Desktop\Process-Protector-master\Process-Protector-master\x64\Release\library_x64.pdb'; oggetto collegato senza informazioni di debug
+  Test.vcxproj -> C:\Users\dioca\OneDrive\Desktop\Process-Protector-master\Process-Protector-master\x64\Release\Test.exe
